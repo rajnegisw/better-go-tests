@@ -1,0 +1,1 @@
+This repo is made in reference to a blogpost about writing better Go tests.
